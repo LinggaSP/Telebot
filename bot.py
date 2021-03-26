@@ -72,7 +72,7 @@ class LTC:
 				client.send_code_request(self.phone_number);aing_gans();waktu.sleep(1.2);ngentod_hemkel();print(f"{white}  Note {black}: {yellow}Script Telebot-LTC V.1, Use It Wisely !\n")
 				me = client.sign_in(self.phone_number, input(f" {white}[{cyan}+{white}] Code Telegram {black}: {white}"));waktu.sleep(3)
 			except awokawokawokmengontol:
-				pwd = input(" {!} Input Password 2fa : ")
+				pwd = input(f" {white}{{cyan}!{white}} Input Password {black}: {white}")
 				me = client.start(self.phone_number, pwd)
 		myself = client.get_me()
 		print(f" {white}[{cyan}+{white}] Nama User  {black}: {cyan}",myself.first_name);waktu.sleep(3);print(f" {white}[{cyan}+{white}] {white}Phone User {black}: {cyan}"+ self.phone_number );waktu.sleep(2.9)
