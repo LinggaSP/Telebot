@@ -16,7 +16,7 @@ $ cd Telebot
 $ python bot.py <Number_Telegram>
 ```
 ## Screenshot
-![screen](https://github.com/Kingtebe/Telebot/blob/Kingtebe/index/one.jpg)
+![screen](https://github.com/Kingtebe/Telebot/blob/Kingtebe/index/IMG_20210326_145227.jpg)
 ## Required
 - requests
 - bs4
