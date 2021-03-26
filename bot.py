@@ -151,6 +151,6 @@ class LTC:
 
 if __name__=='__main__':
 	if len(sys.argv) < 2:
-		exit(f"\n {white}[{purple}!{white}] {white}Usage\x1b[93m: {white}python ltc1.py <Number_Telegram> \n")
+		exit(f"\n {white}[{purple}!{white}] {white}Usage\x1b[93m: {white}python bot.py <Number_Telegram> \n")
 	else:
 		LTC(sys.argv[1])
