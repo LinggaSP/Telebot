@@ -63,7 +63,7 @@ class LTC:
 		self.Nuyul()
 
 	def Nuyul(self):
-		if not os.path.exists("cd /sdcard/session"):
+		if not os.path.exists("session"):
 			os.makedirs("session")
 		client = TelegramClient("session/"+ self.phone_number, self.api, self.hash )
 		client.connect()
