@@ -11,6 +11,10 @@ $ pkg install python
 $ pip install request
 $ pip install bs4
 $ pip install telethon
+$ git clone https://github.com/Kingtebe/Telebot
+$ cd Telebot
+$ python bot.py <Number_Telegram>
+> Example : python bot.py +62xxxxxx
 ```
 ## Required
 - requests
