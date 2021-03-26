@@ -15,6 +15,8 @@ $ git clone https://github.com/Kingtebe/Telebot
 $ cd Telebot
 $ python bot.py <Number_Telegram>
 ```
+## Screenshot
+![screen](https://github.com/Kingtebe/Telebot/blob/Kingtebe/index/one.jpg)
 ## Required
 - requests
 - bs4
